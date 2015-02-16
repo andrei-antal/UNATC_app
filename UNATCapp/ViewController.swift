@@ -134,6 +134,7 @@ class ViewController: UIViewController {
             // open
             else
             {
+                
                 self.openStates = [false,false,false]
                 self.openStates[viewIndex] = true;
                 
